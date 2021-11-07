@@ -1,0 +1,15 @@
+# textdomain:morelights_dim
+
+dark=
+light=
+Dim Modern Light Block=
+Dim Modern Light Block (small)=
+Dim Modern Post Light (@1)=
+Dim Street Lamp Post (@1) - connects to bar lights=
+Dim Ceiling Bar Light (connecting)=
+Dim Ceiling Bar Light (straight)=
+Dim Modern Ceiling Light=
+Dim Modern Can Light (@1)=
+Dim Modern Wall Lamp=
+Dim Modern Table Lamp (@1)=
+Dim Modern Path Light (@1)=
