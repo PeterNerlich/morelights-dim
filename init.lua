@@ -384,7 +384,7 @@ minetest.register_craft({
 })
 
 minetest.register_craft({
-    output = "morelights_dim:lightdot",
+    output = "morelights_dim:lightdot 4",
     recipe = {
         {a.tin, "morelights:bulb", a.steel},
     }
